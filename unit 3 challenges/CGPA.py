@@ -11,8 +11,8 @@ def sort_student(student_list):
 
 students = [
            student('hariharan','k111',7.8),
-           student('madhanraj','k112',9.8),
-           student('baranitharan','k113',8.8)
+           student('sivasangari','k112',9.8),
+           student('raji','k113',8.8)
            ]
 
 sorted_students = sort_student(students)
